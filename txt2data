@@ -1,0 +1,12 @@
+#!/usr/bin/perl
+
+use strict;
+
+while (my $line = <STDIN>) {
+    chomp $line;
+    my @line = split ("\t",$line);
+    print "%h $line[0]\n%d\n";
+    for (my $i = 1; $i < $#line; $i++) {
+        print "   $line[$i]\n";
+    }
+}

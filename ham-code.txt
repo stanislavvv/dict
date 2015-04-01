@@ -1,0 +1,467 @@
+73	Best regards	Наилучшие пожелания
+88	Love and kisses	Любовь и поцелуй
+99	I don't want to work with you!	Я не желаю с Вами работать
+AA	All after	Всё после...
+AB	All before	Всё до...
+ABT	About	Около, приблизительно
+ABV	I repeat in abbreviated form	Повторяю в виде аббревиатуры
+AC	Alternating current	Переменный ток
+ADDR	Address	Адрес
+ADR	Address	Адрес
+ADS	Address	Адрес
+AER	Aerial	Антенна
+AFTER	Аfter	После
+AGN	Again	Опять, снова
+ALSO	Also	Так же
+AM	Amplitude modulation	Амплитудная модуляция
+AM	Ante meridiem	Пополуночи
+AMMTR	Ammeter	Амперметер
+AMP	Ampere	Ампер
+AMT	Australian meantime	Австралийское время
+ANS	Answer	Ответ
+ANT	Antenna	Антенна
+ARE	Are	Есть (мн.ч.)
+AR	End of transmission	Конец передачи
+AST	Atlantic standard time	Атлантическое стандартное время
+AS	Wait	Ждите
+AT END	At end	К концу
+AT FIRST	At first	Сперва
+AT LAST	At last	Наконец
+AT TIMES	At times	Временами
+AUD	Audibility	Слышимость
+AVC	Automatic volume control	Автоматическая регулировка усиления
+B4	Before	Перед
+BAD	Bad	Плохо, плохой
+BAND	Band	Диапазон
+BCI	Broadcast interferences	Помехи приёму радиовещания
+BCNU	Be seeing you	Буду рад встретить снова
+BD	Bad	Плохо, плохой
+BEAM	Beam	Направленная (антенна)
+BEST	Best	Наилучший
+BFO	Beat frequency oscillator	Телеграфный гетеродин
+BFR	Before	Перед
+BK	Break	Работа полудуплексом
+BN	All between	Всё между...
+BOX	Box	Ящик (почтовый)
+BT	Pause	Знак раздела
+BTR	Better	Лучше
+BUG	Bug	Виброплекс
+BUK	Book	Книга, список позывных
+BUT	But	Но
+BY	By	Посредством, при помощи
+CALL	Call	Вызов, позывной
+CAN	Can	Могу
+CANT	Can not	Не могу
+CARD	Card	Карточка-квитанция
+CB	Citizens band	Гражданский диапазон 27 МГц
+CC	Crystal control	Стабилизация кварцем
+C	Chirp signal	"Чирикающий" сигнал
+CFM	Confirm	Подтверждаю, подтверждение
+CHEERIO	Cheerio	Желаю успеха
+CITY	City	Город
+CK	Check	Проверить
+CKT	Circuit	Схема
+CL	Closing station	Выключаю станцию
+CLD	Called	Вызывал
+CLEAR	Clear	Ясно
+CLG	Calling	Вызывает, вызываю
+CLOUDY	Cloudy	Облачно
+CO	Crystal oscillator	Кварцевый генератор
+COLD	Cold	Холодно
+CONDX	Conditions	Условия (слышимость)
+CONGRATS	Congratulations	Поздравления
+COPI	Copy	Записывать (принимать)
+CP	Counterpose	Противовес
+CP	General call to multiple stations	Общий вызов нескольким станциям
+CPY	Copy	Записывать (принимать)
+CQ	General call to all stations	Всем, всем ! (общий вызов)
+CRD	Card	Карточка-квитанция
+CS	Callsign	Позывной
+CST	Central standard time	Центральное стандартное время
+CUAGN	See you again	Встретимся снова
+CUL	See you later	Встретимся позже
+CU	See you	Встретимся (в эфире)
+CW	Continuous wave	Незатухающие колебания (телеграф)
+C	Yes	Да
+DC	Direct current	Постоянный ток
+DE	From	От, из
+DIRECT	Direct	Непосредственно, прямо
+DLVD	Delivered	Передано
+DN	Down	Вниз, ниже
+DOPE	Dope	Сообщение (приятное)
+DR	Dear	Дорогой
+DSB	Double side band	Двухполосная модуляция
+DWN	Down	Вниз, ниже
+DX	Distance	Дальняя связь, дальнее расстояние
+EAST	East	Восток
+ECO	Electron coupled oscillator	Генератор с электронной связью
+EL BUG	Electronic bug	Электронный полуавтомат. ключ
+END	End	Конец
+ERE	Here	Здесь
+ER	Here	Здесь
+ES	And	И
+EST	EastStandard Time	Восточное стандартное время
+ETA	Estimated time of arrival	Ожидаемое время прибытия
+EVY	Every	Каждый
+EX	Ex	Бывший (о позывном)
+FAIR	Fair	Превосходно, прекрасно (о погоде)
+FB	Fine business	Превосходно, прекрасно
+FD	Frequency doubler	Удвоитель частоты
+FER	For	За, для, при
+FINE	Fine	Хороший, прекрасный
+FIRST	First	Первый
+FM	Frequency modulation	Частотная модуляция
+FM	From	Из, от
+FONE	Telephone	Телефон
+FOR	For	За, для, при
+FREQ	Frequency	Частота
+FR	For	За, для, при
+FRM	From	Из, от
+FROM	From	От, из
+FROST	Frost	Мороз
+GA	Go ahead	Давайте, начинайте
+GA	Good afternoon	Добрый день (во вторую половину дня)
+GB	Good bye	До свидания
+GD	Good day	Добрый день
+GE	Good evening	Добрый вечер
+GEN	Generator	Генератор
+GET	Get	Получать
+GLD	Glad	Рад, доволен
+GM	Good morning	Доброе утро
+GMT	Greenwich meantime	Время по Гринвичу
+GND	Ground	Заземление
+GN	Good night	Доброй ночи
+GOT	Got	Получил
+GUD	Good	Хороший, хорошо
+GUHOR	I don't hear you	Я Вас не слышу
+HAM	Short wave radio amateur	Любитель-коротковолновик
+HD	Had	Имел
+HEAR	Hear	Слышать, слышу
+HF	High frequency	Высокая частота
+HI	Laughing	Выражение смеха
+HOPE	Hope	Надеюсь
+HOT	Hot	Жарко
+HOUR	Hour	Час
+HPE	Hope	Надеюсь
+HRD	Heard	Слышал
+HR	Here	Здесь
+HT	High tension	Высокое напряжение
+HV	Have	Иметь, имею
+HVI	Heavy	Тяжелые, сильные
+HVNT	Have not	Не имею
+HW	How do you do?	Как дела? Как Вы меня слышите?
+HZ	Hertz	Герц
+I	I	Я
+INFO	Information	Информация
+IN	In	В
+INPT	Input	Подводимая мощность
+INPUT	Input	Подводимая мощность
+IS	Is	Есть (ед.ч.)
+IST	Indian Standard Time	Индийское стандартное время
+KA	Beginning of transmission	Начало передачи
+KC	Kilocycle	Килоцикл
+K	Clicks	Щелчки от "жесткой" манипуляции
+K	Go ahead (invitation to transmit)	Отвечайте, передавайте
+KHZ	Kilohertz	Килогерц
+KN	I'm listening only to my correspondent	Слушаю только своего корреспондента
+KNOW	Know	Знать, знаю
+KW	Know	Знать, знаю
+KY	Key	Телеграфный ключ
+LAST	Last	Последний
+LAT	Latitude	Широта
+LF	Low frequency	Низкая частота
+LID	Poor operator	Плохой оператор
+LOCAL	Local	Местный
+LOG	Log book	Список радиостанций
+LONG	Longitude	Долгота
+LONG	Long	Длинный, долго
+LSB	Lower side band	Нижняя боковая полоса
+LUCK	Luck	Успех, счастье
+MA	Milliampere	Миллиампер
+MAYDAY	Disaster signal	Сигнал бедствия
+MC	Megacycle	Мегацикл
+MEET	Meet	Встретить
+MEZ	Mitteleuropдische Zeit	Среднеевропейское время
+MF	Microfarad	Микрофарада
+MHZ	Megahertz	Мегагерц
+MIKE	Microphone	Микрофон
+MILE	Mile	Миля (1,6 км)
+MILS	Milliamperes	Миллиамперы
+MI	My	Мой
+MIN	Minute	Минута
+MISD	Missed	Пропустил
+MNI	Many	Много, многие
+MN	Minutes	Минуты
+MOD	Modulation	Модуляция
+MO	Master oscillator	Задающий генератор
+MOM	Moment	Момент
+MSG	Message	Сообщение
+MSK	Moscow Time	Московское время
+MST	Middle Standard Time	Среднее стандартное время
+MTR	Meter	Метр
+NBFM	Narrow band frequency	Узкополосная частотная модуляция
+NCS	Net control station	Сетевая станция управления
+NEAR	Near	Близ
+NET	Net	Сеть
+NEW	New	Новый
+NICE	Nice	Приятный, хороший
+NIL	(I have) nothing (for you)	Ничего (нет для вас)
+N	No	Нет
+NO	No	Нет
+NORTH	North	Север
+NOT	Not	Не
+NR	Near	Близ
+NR	Number	Номер
+NW	Now	Теперь, приступаю к передаче
+OB	Old boy	Старый приятель
+OC	Old comarade	Приятель
+OEZ	Osteuropдishe Zeit	Восточноевропейское время
+OK	All correct	Принял правильно, понял
+OLD	Old	Принял правильно, понял
+OM	Old man	Старый приятель
+ONLY	Only	Только
+ON	On	На
+OP	Operator	Оператор
+OPR	Operator	Оператор
+OSC	Oscillator	Генератор
+OT	Old timer
+OUTPT	Output	Отдаваемая пощность
+PAN	International urgent signal	Международный сигнал бедствия
+PA	Power amplifier	Усилитель мощности
+PART	Part	Часть
+PM	Post meridiem	Пополудни
+PR	Pocket radiotraffic	Пакетная радиосвязь
+PSED	Pleased	Доволен, рад
+PSE	Please	Пожалуйста
+PST	Pacific Standard Time	Тихоокеанское стандартное время
+PWR	Power	Мощность
+QAP	Должен ли я слушать … на … кГц (МГц)?	Слушайте … на … кГц (МГц)
+QBA	(англ. big antenna) Большая ли у вас антенна?	У меня большая-пребольшая антенна!
+QBS	(англ. bird shit) У вас антенна залеплена птичьим пометом?	Стряхните дерьмо с антенны и будете меня слышать.
+QCX	Какой ваш полный позывной?	Вы работаете неверными позывными, проверьте
+QCZ		Вы нарушаете правила радиообмена
+QDM	Сообщите мой курс при нулевом ветре	Мой курс при нулевом ветре …
+QDR	(англ. do you have receiver?) У вас есть приемник? (в ответ на «QRL?»)	Да, черт возьми (англ. damn right), частота занята!
+QDR	Сообщите мой магнитный пеленг	Магнитный пеленг …
+QDW	Должен ли я перейти на запасную частоту?	Перейдите на запасную частоту
+QEW	(англ. earwax) У вас уши забиты серой?	Плохо слышу вас, уши забиты.
+QGE	Какое точное расстояние?	Точное расстояние …
+QIF	Должен ли я передавать на … кГц (МГц)?	Передавайте на … кГц (МГц)
+QKB	(англ. knobs) Сколько ручек управления у вашей радиостанции?	У моей станции … ручек.
+QKN	(англ. know how) А сколькими ручками вы умеете пользоваться?	Я умею пользоваться … ручками.
+QLF	(англ. left foot) Вы работаете на ключе левой ногой?	Я работаю на ключе левой ногой.
+QLK	Должен ли я быстрее реагировать на ваши запросы?	Реагируйте быстрее на мои запросы
+QOD8	Можете ли вы работать на русском языке?	Я могу работать на русском языке
+QRA	Как называется ваша станция?	Моя станция называется …
+QRB	На каком приблизительно расстоянии Вы находитесь от моей станции?	Приблизительное расстояние между нашими станциями равно … км
+QRC	Вы жеватель тряпок? (англ. rag chewer — любитель вести долгие разговоры[1])	Осторожно, в эфире болтун.
+QRD	Откуда и куда вы идёте?	Я иду из … в …
+QRG	Сообщите мне точную частоту	Ваша точная частота … кГц (МГц)
+QRH	Меняется ли моя частота?	Ваша частота меняется
+QRI	Каков тон моей передачи?	Тон вашей передачи …
+QRJ	Стабилен ли мой сигнал?	Ваш сигнал нестабилен
+QRK	Какова разборчивость моих сигналов?	Разборчивость ваших сигналов …
+QRL	Заняты ли вы?	Я занят, прошу не мешать
+QRM	Испытываете ли вы помехи от других станций?	Я испытываю помехи от других станций
+QRN	Мешают ли вам атмосферные помехи?	Мне мешают атмосферные помехи
+QRO	Должен ли я увеличить мощность передатчика?	Увеличьте мощность передатчика
+QRP	Должен ли я уменьшить мощность передатчика?	Уменьшите мощность передатчика
+QRQ	Должен ли я передавать быстрее?	Передавайте быстрее
+QRS	Должен ли я передавать медленнее?	Передавайте медленнее
+QRT	Должен ли я прекратить передачу?	Прекратите передачу
+QRU	Есть ли у вас что-нибудь для меня?	У меня ничего для вас нет
+QRV	Готовы ли вы?	Я готов
+QRW	Должен ли я сообщить … что вы вызываете его на … кГц (МГц)?	Пожалуйста, сообщите … что я вызываю его на … кГц (МГц)
+QRX	Когда вы вызовете меня снова?	Подождите, я вызову вас снова
+QRY	Какая моя очередь?	Ваша очередь …
+QRZ	Кто меня вызывает?	Вас вызывает …
+QSA	Какой силы мои сигналы?	Сила ваших сигналов …
+QSB	Замирают ли мои сигналы?	Ваши сигналы замирают
+QSC	Ваша станция с малым обменом?	Моя станция с малым обменом
+QSD	Имеет ли моя манипуляция дефекты?	Ваша манипуляция имеет дефекты
+QSG	Сколько сообщений вы передали?	Я передал ... сообщений
+QSK	Можете ли вы слышать меня в паузах между своими сигналами?	Я могу вас слышать в паузах между своими сигналами
+QSL	Можете ли вы подтвердить приём?	Ваш приём подтверждаю
+QSM	Должен ли я повторить последнее сообщение?	Повторите последнее сообщение
+QSN	Слышали ли вы меня на …?	Я вас слышал на … кГц (МГц)
+QSO	Можете ли вы связаться с … непосредственно?	Я могу связаться с … непосредственно
+QSP	Можете ли вы передать …?	Я могу передать …
+QSQ	Имеете ли вы на борту врача?	Я имею на борту врача
+QSS	Будете ли вы работать на … кГц (МГц)?	Я буду работать на … кГц (МГц)
+QST	Могу ли я работать телефоном?	Я вас слышу, работайте телефоном
+QSU	Должен ли я работать на … кГц (МГц)?	Работайте на … кГц (МГц)
+QSV	Можете ли вы дать настройку?	Даю настройку
+QSW	Должен ли я передавать на данной частоте?	Передавайте на данной частоте
+QSX	Слушаете ли вы … на … кГц (МГц)	Я слушаю … на … кГц (МГц)
+QSY	Должен ли я перейти на другую частоту?	Перейдите на другую частоту
+QSZ	Передавать каждую группу несколько раз?	Передавайте каждую группу по … раза
+QTA	Аннулировать радиограмму?	Аннулируйте радиограмму
+QTB		Подтверждаю количество слов в сообщении
+QTC	Имеется ли у вас сообщение?	У меня имеется для вас сообщение
+QTE	Сообщите мой пеленг относительно вас	Ваш пеленг относительно меня …
+QTF	Сообщите моё местонахождение?	Ваше местонахождение …
+QTH	Сообщите ваши координаты	Я нахожусь …
+QTI	Сообщите ваш истинный курс	Мой истинный курс …
+QTJ	Сообщите вашу скорость	Моя скорость …
+QTK	Сообщите точное время	Точное время …
+QTL	Сообщите ваше истинное направление	Моё истинное направление …
+QTO	Из какого порта вы вышли?	Я вышел из порта …
+QTP	В какой порт вы будете заходить?	Я захожу в порт …
+QTR	Сообщите точное время	Точное время … часов
+QTU	В какие часы работает ваша станция?	Моя станция работает от … до …
+QTV	Должен ли я обеспечить дежурство вместо вас на … кГц (МГц)	Обеспечьте вместо меня дежурство на … кГц (МГц)
+QTX	Будете ли вы на приёме для дальнейшей связи со мной до получения известий (или до … час)?	Я буду на приёме до получения известия (или до … час)
+QUA	Есть ли у вас известия от …?	У меня есть известия от …
+QUD	Получили ли вы сигнал срочности от …?	Я получил сигнал срочности от …
+QUF	Получили ли вы сигнал бедствия от …?	Я получил сигнал бедствия от …
+QXS	Должен ли я пригласить … к аппарату для переговоров?	Пригласите … к аппарату для переговоров
+QXX	Должен ли я заменить оператора?	Замените оператора
+QYD	Сообщите причину неответа в … час … мин	Причина неответа …
+QZZ	Это фон 60 Гц или вы храпите?	Я засыпаю у микрофона.
+RAC	Rough alternating current	Грубый тон переменного тока
+RAIN	Rain	Дождь
+RCD	Received	Принял, получил
+RCVD	Received	Принял, получил
+RCV	Receive	Получать, принимать
+RCVR	Receiver	Приёмник
+RDN	Radiation	Излучение
+RDO	Radio	Радио
+REF	Reference	Ссылка (на книгу, справочник)
+REPT	Report	Сообщение
+RFI	Radio frequency interference	Радиопомеха
+RIG	Transmitter	Передатчик
+RITE	Write	Писать, пишите
+RPRT	Report	Сообщение
+RPT	Repeat	Повторение, повторите, повторяю
+RQ	Request	Запрос
+R	Right, yes, received solid, roger	Верно, правильно принял
+RTTY	Radio teletype	Радиотелетайп
+RX	Receiver	Приёмник
+SAE	Self addressed envelope	Конверт с обратным адресом
+SA	Say	Скажите
+SASE	Self addressed stamped envelope	Конверт с обратным адресом и марками
+SECOND	Second	Второй
+SECURITE	Security signal	Сигнал безопасности
+SED	Said	Сказал
+SEG	Second	Секунда
+SEND	Send	Посылать, передавать
+SIG	Signal	Сигнал
+SIGS	Signals	Сигналы
+SKED	Schedule	Расписание работы
+SK	Signing off	Полное окончание обмена
+SM	Some	Некоторые, несколько
+SNOW	Snow	Снег
+SN	Soon	Скоро, вскоре
+SOLID	Solid	Уверенно, солидно
+SOON	Soon	Скоро, вскоре
+SORI	Sorry	Извините
+SOS	Distress signal	Сигнал бедствия
+SOUTH	Soon	Скоро, вскоре
+SPK	Speak	Говорить
+SRI	Sorry	Извините
+SSB	Single side band	Одна боковая полоса
+SSTV	Slow scanning television	Телевидение с медленной разверткой
+STDI	Steady	Устойчиво
+STN	Station	Станция
+STRONG	Strong	Сильно
+SUM	Some	Несколько
+SURE	Sure	Уверенность, будьте уверенны
+SVC	Service	Служба, служебный
+SWL	Shortwave listener	Наблюдатель
+SWR	Standing wave ratio	Коэффициент стоячей волны
+SW	Short wave	Короткие волны
+TEN	Ten	Десятиметровый диапазон
+TEST	Test	Опыт, опытная работа, соревнования
+TFC	Traffic (messages)	График, регулярная радиосвязь, обмен
+TFX	Traffic (messages)	График, регулярная радиосвязь, обмен
+TILL	Till	До
+TIME	Time	Время
+TKS	Thanks	Благодарность
+TKU	Thank you	Благодарю Вас
+TMR	Tomorrow	Завтра
+TMW	Tomorrow	Завтра
+TNX	Thanks	Благодарность
+TODI	Today	Сегодня
+TONE	Tone	Тон
+TOO	Too	Также, слишком
+TO	To	К, для
+TRCVR	Transceiver	Трансивер
+TRUB	Trouble	Помеха, затруднение
+TTT	Safety signal	Сигнал безопасности
+TUBE	Tube	Радиолампа
+TU	Thank you	Благодарю Вас
+TVI	Television interference	Помехи приёму телевидения
+TX	Transmitter	Передатчик
+TXT	Text	Текст
+UFB	Ultra fine business	Превосходно
+UNLIS	Unlicensed	Нелегальная станция
+UNSTDI	Unsteady	Нестабильно, неустойчиво
+UP	Up	Верх, выше
+URS	Yours	Ваши
+UR	Your	Ваш
+USB	Upper side band	Верхняя боковая полоса
+UT1	Universal Time	Универсальное время
+UTC	Universal coordinated time	Универсальное координированное время
+UT	Universal Time	Универсальное время
+U	You (or USSR radioamateur)	Вы (или советский коротковолновик)
+VALVE	Valve	Радиолампа
+VCO	Voltage controlled oscillator	Генератор, управляемый напряжением
+VFO	Variable frequency oscillator	Генератор плавного диапазона
+VHF	Very high frequency	Сверхвысокие частоты
+VIA	Via	Через, посредством
+VXO	Variable crystal oscillator	Перестраиваемый кварцевый генератор
+VY	Very	Очень
+WARM	Warm	Тепло
+WAVE	Wave	Волна
+WA	Word after	Слово после
+WB	Word before	Слово до
+WDS	Words	Слова
+WD	Word	Слово
+WEAK	Weak	Слабый
+WELL	Well	Хорошо
+WEST	West	Запад
+WID	With	С
+WIND	Wind	Ветер
+WKD	Worked	Работал
+WKG	Working	Работаю
+WLL	Will	Буду, будет, будете
+WL	Will	Буду, будет, будете
+WPM	Word per minute	Слов в минуту
+WRKD	Worked	Работал
+WRKED	Worked	Работал
+WRK	Work	Работа, работать
+WTTS	Watts	Ватты
+W	Word	Слово
+WW	World-wide	Весь мир, всемирный
+WX	Weather	Погода
+XCRV	Transceiver	Трансивер
+X	Crystal	Прекрасный, "кристалльный" тон
+XMTR	Transmitter	Приёмник
+XTAL	Crystal	Кварцевый кристалл
+XUSE	Excuse	Извинения
+XXX	Urgency signal	Сигнал бедствия
+XYL	Ex young lady, wife	Жена
+YDAY	Yesterday	Вчера
+YES	Yes	Да
+YL	Young lady	Девушка
+ZAN	Принимаете ли Вы меня?	Я абсолютно ничего не принимаю
+ZAP	Должен ли я подтвердить приём?	Пожалуйста, подтвердите приём
+ZCK	Какова моя манипуляция?	Проверьте Вашу манипуляцию
+ZCL	Должен ли я передавать мой позывной сигнал разборчивее?	Передавайте Ваш позывной сигнал разборчивее
+ZDF	Меняется ли моя частота?	Ваша частота меняется
+ZFO	Замирают ли мои сигналы?	Ваши сигналы замирают
+ZGS	Становятся ли мои сигналы громче?	Ваши сигналы становятся громче
+ZGW	Становятся ли мои сигналы тише?	Ваши сигналы становятся тише
+ZOK	Как Вы меня принимаете?	Принимаю Вас уверенно
+ZRN	Какой тон моих сигналов?	У Ваших сигналов плохой тон
+ZSU	Разборчивы ли мои сигналы?	Ваши сигналы невозможно разобрать
+ZWO	Должен ли я передавать слова один раз?	Передавайте слова один раз
+ZWT	Должен ли я передавать слова дважды?	Передавайте слова дважды
+Z	Zeit, universal coordinated time	Время
+БЛГ	Thank you	Благодарю
+ДСВ	Goodbye	До свидания
+ЗДР	How do you do?	Здравствуйте
+НЛД	.	"На любительских диапазонах"
+СЛД	Follow	Следите
+СПБ	Thanks	Спасибо
+ТОВ	Camarade	Товарищ
