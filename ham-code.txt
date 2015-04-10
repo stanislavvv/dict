@@ -1,3 +1,7 @@
+
+begin
+30	The end	Конец связи
+33	Love sealed with frendship (used by YL-only)	Выражение любви и дружеских чувств (используется только женщинами)
 73	Best regards	Наилучшие пожелания
 88	Love and kisses	Любовь и поцелуй
 99	I don't want to work with you!	Я не желаю с Вами работать
@@ -9,30 +13,43 @@ AC	Alternating current	Переменный ток
 ADDR	Address	Адрес
 ADR	Address	Адрес
 ADS	Address	Адрес
+ADV	Advice	Совет, консультация
+ADX	Address	Адрес
 AER	Aerial	Антенна
 AFTER	Аfter	После
+AF	Audio frequency	Звуковая частота
+AF	Africa	Африка
+AF	Air Force	Военно-воздушные силы
+AGC	Auto Gain Control	Автоматическая регулировка усиления
 AGN	Again	Опять, снова
+AHD	Ahead	Вперёд, продолжайте
 ALSO	Also	Так же
 AM	Amplitude modulation	Амплитудная модуляция
 AM	Ante meridiem	Пополуночи
 AMMTR	Ammeter	Амперметер
 AMP	Ampere	Ампер
 AMT	Australian meantime	Австралийское время
+ANR	Another	Еще один, другой
 ANS	Answer	Ответ
 ANT	Antenna	Антенна
 ARE	Are	Есть (мн.ч.)
+ARRL	American Radio Relay League	Американская лига радиолюбителей
 AR	End of transmission	Конец передачи
 AST	Atlantic standard time	Атлантическое стандартное время
 AS	Wait	Ждите
+ASAP	As soon as possible	Скоро, как только возможно
 AT END	At end	К концу
 AT FIRST	At first	Сперва
 AT LAST	At last	Наконец
 AT TIMES	At times	Временами
 AUD	Audibility	Слышимость
+AUX	Auxiliary	Запасной, вспомогательный
 AVC	Automatic volume control	Автоматическая регулировка усиления
+AVD	Average	Средний
 B4	Before	Перед
 BAD	Bad	Плохо, плохой
 BAND	Band	Диапазон
+BC	Broadcast, British Colombia	Радиовещание, Британская Колумбия
 BCI	Broadcast interferences	Помехи приёму радиовещания
 BCNU	Be seeing you	Буду рад встретить снова
 BD	Bad	Плохо, плохой
@@ -45,7 +62,7 @@ BN	All between	Всё между...
 BOX	Box	Ящик (почтовый)
 BT	Pause	Знак раздела
 BTR	Better	Лучше
-BUG	Bug	Виброплекс
+BUG	Bug	Виброплекс (полуавтоматический ключ)
 BUK	Book	Книга, список позывных
 BUT	But	Но
 BY	By	Посредством, при помощи
@@ -55,7 +72,7 @@ CANT	Can not	Не могу
 CARD	Card	Карточка-квитанция
 CB	Citizens band	Гражданский диапазон 27 МГц
 CC	Crystal control	Стабилизация кварцем
-C	Chirp signal	"Чирикающий" сигнал
+C	Chirp signal (used after RST)	"Чирикающий" сигнал (исп. после RST)
 CFM	Confirm	Подтверждаю, подтверждение
 CHEERIO	Cheerio	Желаю успеха
 CITY	City	Город
@@ -83,19 +100,25 @@ CUL	See you later	Встретимся позже
 CU	See you	Встретимся (в эфире)
 CW	Continuous wave	Незатухающие колебания (телеграф)
 C	Yes	Да
+DB	Decibel	Децибел
 DC	Direct current	Постоянный ток
 DE	From	От, из
 DIRECT	Direct	Непосредственно, прямо
 DLVD	Delivered	Передано
+D	Down	Вниз, ниже
 DN	Down	Вниз, ниже
 DOPE	Dope	Сообщение (приятное)
 DR	Dear	Дорогой
 DSB	Double side band	Двухполосная модуляция
 DWN	Down	Вниз, ниже
-DX	Distance	Дальняя связь, дальнее расстояние
+DX	Distance	Дальняя связь, дальнее расстояние, редкий корреспондент
+DXPDN	DX-expedition	Радиоэкспедиция в какой-либо район мира или страну
 EAST	East	Восток
 ECO	Electron coupled oscillator	Генератор с электронной связью
+EEK	American Morse "Ok"
+EL	Element	Элемент
 EL BUG	Electronic bug	Электронный полуавтомат. ключ
+EM	Then	Тогда
 END	End	Конец
 ERE	Here	Здесь
 ER	Here	Здесь
@@ -103,11 +126,16 @@ ES	And	И
 EST	EastStandard Time	Восточное стандартное время
 ETA	Estimated time of arrival	Ожидаемое время прибытия
 EVY	Every	Каждый
+EU	Europe	Европа
 EX	Ex	Бывший (о позывном)
 FAIR	Fair	Превосходно, прекрасно (о погоде)
 FB	Fine business	Превосходно, прекрасно
 FD	Frequency doubler	Удвоитель частоты
+FD	Field day	Полевой день
+FD	Food	Пища
 FER	For	За, для, при
+FIL	Filament	Нить накала, накал
+FLD	Field	Поле
 FINE	Fine	Хороший, прекрасный
 FIRST	First	Первый
 FM	Frequency modulation	Частотная модуляция
@@ -115,30 +143,43 @@ FM	From	Из, от
 FONE	Telephone	Телефон
 FOR	For	За, для, при
 FREQ	Frequency	Частота
+FQ	Frequency	Частота
 FR	For	За, для, при
 FRM	From	Из, от
 FROM	From	От, из
 FROST	Frost	Мороз
+FT	Foot	Фут
+FWD	Forward	Вперёд
+FYI	For your information	Для вашего сведения
 GA	Go ahead	Давайте, начинайте
 GA	Good afternoon	Добрый день (во вторую половину дня)
 GB	Good bye	До свидания
 GD	Good day	Добрый день
 GE	Good evening	Добрый вечер
 GEN	Generator	Генератор
+GESS	Guess	Считать, предполагать
 GET	Get	Получать
+GG	Going	Идти
+GG	Grounded grid	Заземлённая сетка
 GLD	Glad	Рад, доволен
+GL	Glad	Рад, доволен
+GL	Good luck	Пожелание удачи, счастья
 GM	Good morning	Доброе утро
 GMT	Greenwich meantime	Время по Гринвичу
 GND	Ground	Заземление
 GN	Good night	Доброй ночи
 GOT	Got	Получил
+GP	Ground plane	Антенна типа GP
 GUD	Good	Хороший, хорошо
 GUHOR	I don't hear you	Я Вас не слышу
 HAM	Short wave radio amateur	Любитель-коротковолновик
 HD	Had	Имел
 HEAR	Hear	Слышать, слышу
+HERTZ	Hertz	Герц
 HF	High frequency	Высокая частота
+HFO	High frequency oscillator	Генератор высокой частоты
 HI	Laughing	Выражение смеха
+HKN	Hurricane	Сильный ветер, ураган
 HOPE	Hope	Надеюсь
 HOT	Hot	Жарко
 HOUR	Hour	Час
@@ -147,40 +188,66 @@ HRD	Heard	Слышал
 HR	Here	Здесь
 HT	High tension	Высокое напряжение
 HV	Have	Иметь, имею
+HVE	Have	Иметь, имею
 HVI	Heavy	Тяжелые, сильные
+HVY	Heavy	Тяжелые, сильные
 HVNT	Have not	Не имею
 HW	How do you do?	Как дела? Как Вы меня слышите?
 HZ	Hertz	Герц
 I	I	Я
+IARU	International Amateur Radio Union	Международный радиолюбительский союз
+ICAO	International Civil Aeronautics Organization	Международная организация гражданской авиации
+ID	Identify	Идентичный, равнозначный
 INFO	Information	Информация
 IN	In	В
+IN	Inch	Дюйм
 INPT	Input	Подводимая мощность
 INPUT	Input	Подводимая мощность
+IRC	International Reply Coupon	Международный почтовый купон
+IRPT	I repeat	Повторяю
 IS	Is	Есть (ед.ч.)
 IST	Indian Standard Time	Индийское стандартное время
+ITU	International Telecommunication Union	Международный союз электросвязи
+ITV	Interference from TV receivers	Помехи от телевидения
 KA	Beginning of transmission	Начало передачи
 KC	Kilocycle	Килоцикл
 K	Clicks	Щелчки от "жесткой" манипуляции
-K	Go ahead (invitation to transmit)	Отвечайте, передавайте
+K	Go ahead (invitation to transmit)	Отвечайте (приглашение к передаче)
 KHZ	Kilohertz	Килогерц
 KN	I'm listening only to my correspondent	Слушаю только своего корреспондента
 KNOW	Know	Знать, знаю
+KNW	Know	Знать, знаю
 KW	Know	Знать, знаю
+KW	Kilowatt	Киловатт
+KV	Kilovolt	Киловольт
 KY	Key	Телеграфный ключ
 LAST	Last	Последний
 LAT	Latitude	Широта
 LF	Low frequency	Низкая частота
 LID	Poor operator	Плохой оператор
+LIL	Little	Маленький, немного
 LOCAL	Local	Местный
 LOG	Log book	Список радиостанций
 LONG	Longitude	Долгота
 LONG	Long	Длинный, долго
+LNG	Long	Длинный, долго
+LP	Long path	Дальний путь, трасса (о прохождении)
 LSB	Lower side band	Нижняя боковая полоса
+LSN	Listen	Слушать, слушаю
+LTR	Letter	Письмо
+LW	Long wire	Длинный провод (антенна)
+LW	Long waves	Длинные волны (диапазон)
 LUCK	Luck	Успех, счастье
 MA	Milliampere	Миллиампер
+MAG	Magnetic	Магнитный, магнит
+MAG	Magazine	Журнал
+MAX	Maximum	Максимум
 MAYDAY	Disaster signal	Сигнал бедствия
 MC	Megacycle	Мегацикл
+MD	Medical doctor	Врач
+MEBBY	May be	Может быть
 MEET	Meet	Встретить
+MEG	Megaohm	Мегаом
 MEZ	Mitteleuropдische Zeit	Среднеевропейское время
 MF	Microfarad	Микрофарада
 MHZ	Megahertz	Мегагерц
@@ -189,32 +256,47 @@ MILE	Mile	Миля (1,6 км)
 MILS	Milliamperes	Миллиамперы
 MI	My	Мой
 MIN	Minute	Минута
+MIN	Minimum	Минимум
 MISD	Missed	Пропустил
+MK	Mark	Отметка, марка
+ML	Mail	Почта
 MNI	Many	Много, многие
 MN	Minutes	Минуты
 MOD	Modulation	Модуляция
 MO	Master oscillator	Задающий генератор
 MOM	Moment	Момент
+MORN	Morning	Утро, доброе утро
+MPH	Miles per hour	Миль в час
+MS	Meteor scatter	Метеорная связь
 MSG	Message	Сообщение
 MSK	Moscow Time	Московское время
 MST	Middle Standard Time	Среднее стандартное время
+MT	Mountain	Гора, горы
 MTR	Meter	Метр
+N	No	Нет
+N	Number	Номер
 NBFM	Narrow band frequency	Узкополосная частотная модуляция
 NCS	Net control station	Сетевая станция управления
+NC	No count, no charge, no check	Не принял, не засчитываю
 NEAR	Near	Близ
 NET	Net	Сеть
 NEW	New	Новый
+NG	Negative	Плохо
 NICE	Nice	Приятный, хороший
 NIL	(I have) nothing (for you)	Ничего (нет для вас)
-N	No	Нет
 NO	No	Нет
 NORTH	North	Север
 NOT	Not	Не
+NTG	Nothing	Ничего
 NR	Near	Близ
 NR	Number	Номер
+NVR	Never	Никогда
 NW	Now	Теперь, приступаю к передаче
+NW	North-West	Северо-запад
+O	Oh	О (восклицание
+O	Zero	Ноль
 OB	Old boy	Старый приятель
-OC	Old comarade	Приятель
+OC	Old chap	Старый приятель, старина
 OEZ	Osteuropдishe Zeit	Восточноевропейское время
 OK	All correct	Принял правильно, понял
 OLD	Old	Принял правильно, понял
@@ -223,18 +305,32 @@ ONLY	Only	Только
 ON	On	На
 OP	Operator	Оператор
 OPR	Operator	Оператор
+OPRG	Operating	Работа на станции
 OSC	Oscillator	Генератор
-OT	Old timer
+OT	Old timer	Радиолюбитель с большим стажем, старый радиолюбитель
 OUTPT	Output	Отдаваемая пощность
+OUTPUT	Output	Отдаваемая пощность
+OVER	End of transmission	Конец передачи
 PAN	International urgent signal	Международный сигнал бедствия
 PA	Power amplifier	Усилитель мощности
+PAC	Pacific	Тихий океан
+PARA	Paragraph	Параграф
 PART	Part	Часть
+PBL	Preamble	Вступление
+PBLI	Probably	Вероятно
+PF	Picofarad	Пикофарада
 PM	Post meridiem	Пополудни
+PO	Post office	Почтовое отделение
+PO	Power output	Выходная мощность
+POSN	Position	Положение, позиция
+PPGN	Propagation	Прохождение
 PR	Pocket radiotraffic	Пакетная радиосвязь
 PSED	Pleased	Доволен, рад
 PSE	Please	Пожалуйста
 PST	Pacific Standard Time	Тихоокеанское стандартное время
+PTBL	Portable	Портативный
 PWR	Power	Мощность
+QK	Quick	Быстрый
 QAP	Должен ли я слушать … на … кГц (МГц)?	Слушайте … на … кГц (МГц)
 QBA	(англ. big antenna) Большая ли у вас антенна?	У меня большая-пребольшая антенна!
 QBS	(англ. bird shit) У вас антенна залеплена птичьим пометом?	Стряхните дерьмо с антенны и будете меня слышать.
@@ -324,31 +420,42 @@ RCD	Received	Принял, получил
 RCVD	Received	Принял, получил
 RCV	Receive	Получать, принимать
 RCVR	Receiver	Приёмник
+RDI	Ready	Готов, готовьтесь
 RDN	Radiation	Излучение
 RDO	Radio	Радио
+RDY	Ready	Готов, готовьтесь
 REF	Reference	Ссылка (на книгу, справочник)
+REG	Regulation, regulator	Регулировка, регулятор
+REG	Regular	Регулярно
+REG	Region	Регион
 REPT	Report	Сообщение
 RFI	Radio frequency interference	Радиопомеха
+RI	Radio inspector	Контроллер за работой радиостанций
 RIG	Transmitter	Передатчик
 RITE	Write	Писать, пишите
 RPRT	Report	Сообщение
 RPT	Repeat	Повторение, повторите, повторяю
 RQ	Request	Запрос
+RSGB	Radio Society of Great Britain	Радиолюбительское общество Великобритании
+RST	Readability - Strength - Tone (signal report)	Разбираемость - Сила - Тон (оценка сигнала)
 R	Right, yes, received solid, roger	Верно, правильно принял
 RTTY	Radio teletype	Радиотелетайп
 RX	Receiver	Приёмник
 SAE	Self addressed envelope	Конверт с обратным адресом
 SA	Say	Скажите
+SA	South America	Южная америка
 SASE	Self addressed stamped envelope	Конверт с обратным адресом и марками
 SECOND	Second	Второй
 SECURITE	Security signal	Сигнал безопасности
 SED	Said	Сказал
-SEG	Second	Секунда
+SEC	Second	Секунда
 SEND	Send	Посылать, передавать
+SGD	Signature, signed	Подписывать, подпись
 SIG	Signal	Сигнал
 SIGS	Signals	Сигналы
 SKED	Schedule	Расписание работы
-SK	Signing off	Полное окончание обмена
+SK	Signing off	Полное окончание связи
+SL	See you later	Встретимся позже
 SM	Some	Некоторые, несколько
 SNOW	Snow	Снег
 SN	Soon	Скоро, вскоре
@@ -357,6 +464,7 @@ SOON	Soon	Скоро, вскоре
 SORI	Sorry	Извините
 SOS	Distress signal	Сигнал бедствия
 SOUTH	Soon	Скоро, вскоре
+SP	Short path	Короткий путь (о прохождении)
 SPK	Speak	Говорить
 SRI	Sorry	Извините
 SSB	Single side band	Одна боковая полоса
@@ -367,33 +475,54 @@ STRONG	Strong	Сильно
 SUM	Some	Несколько
 SURE	Sure	Уверенность, будьте уверенны
 SVC	Service	Служба, служебный
+SVL	Several	Отдельный, собственный (?несколько?)
 SWL	Shortwave listener	Наблюдатель
 SWR	Standing wave ratio	Коэффициент стоячей волны
 SW	Short wave	Короткие волны
+SW	Switch	Выключатель
+T	Tone	Тон
+TBL	Trouble	Ужасный, плохой, проблемы
+TDA	Today	Сегодня
+TEMP	Temporary	Временно
+TEMP	Temperature	Температура
 TEN	Ten	Десятиметровый диапазон
-TEST	Test	Опыт, опытная работа, соревнования
+TEST	Test, Contest	Опыт, опытная работа, соревнования
 TFC	Traffic (messages)	График, регулярная радиосвязь, обмен
 TFX	Traffic (messages)	График, регулярная радиосвязь, обмен
+THR	There	Здесь, их, свой, свои (мест.)
+THRU	Through	Через (кого либо)
 TILL	Till	До
 TIME	Time	Время
 TKS	Thanks	Благодарность
 TKU	Thank you	Благодарю Вас
 TMR	Tomorrow	Завтра
 TMW	Tomorrow	Завтра
+TNG	Thing	Вещь
+TNG	Tuning	Настройка
 TNX	Thanks	Благодарность
 TODI	Today	Сегодня
 TONE	Tone	Тон
 TOO	Too	Также, слишком
 TO	To	К, для
+TR	Transmit/Receive	Приём/Передача
 TRCVR	Transceiver	Трансивер
+TRF	Tuned radio frequency	Настройка частоты
+TRU	True	Правда
 TRUB	Trouble	Помеха, затруднение
+TT	Teletype	Телетайп
 TTT	Safety signal	Сигнал безопасности
 TUBE	Tube	Радиолампа
 TU	Thank you	Благодарю Вас
+TV	Television	Телевидение
 TVI	Television interference	Помехи приёму телевидения
 TX	Transmitter	Передатчик
 TXT	Text	Текст
+U	You	Вы
+U	Up	Вверх (по частоте)
 UFB	Ultra fine business	Превосходно
+UHF	Ultra High Frequency	Ультравысокая частота
+UK	United Kingdom	Великобритания
+UK	Understand	Понял
 UNLIS	Unlicensed	Нелегальная станция
 UNSTDI	Unsteady	Нестабильно, неустойчиво
 UP	Up	Верх, выше
@@ -404,16 +533,28 @@ UT1	Universal Time	Универсальное время
 UTC	Universal coordinated time	Универсальное координированное время
 UT	Universal Time	Универсальное время
 U	You (or USSR radioamateur)	Вы (или советский коротковолновик)
+V	Volt	Вольт
+VA	Volt-Ampere	Вольт-Ампер
 VALVE	Valve	Радиолампа
+VERT	Vertical	Вертикальная (антенна)
 VCO	Voltage controlled oscillator	Генератор, управляемый напряжением
+VFB	Very Fine Business	Прекрасная работа (в эфире)
 VFO	Variable frequency oscillator	Генератор плавного диапазона
 VHF	Very high frequency	Сверхвысокие частоты
 VIA	Via	Через, посредством
+VOX	Volt-actuated transmitter operation	Включение передатчика от голоса оператора
+VRY	Very	Очень
+VRI	Very	Очень
 VXO	Variable crystal oscillator	Перестраиваемый кварцевый генератор
 VY	Very	Очень
 WARM	Warm	Тепло
 WAVE	Wave	Волна
 WA	Word after	Слово после
+WA	Wide Angle	Широкий угол (о направленности антенны)
+WA	What	Что (вопр.)
+WAT	What	Что (вопр.)
+WAC	Worked All Continents	"Работал со всеми континентами" (диплом)
+WATSA	What say?	Что вы говорите?
 WB	Word before	Слово до
 WDS	Words	Слова
 WD	Word	Слово
@@ -421,21 +562,27 @@ WEAK	Weak	Слабый
 WELL	Well	Хорошо
 WEST	West	Запад
 WID	With	С
+WILCO	Will comply. Will do	Будет сделано, будет исполнено
 WIND	Wind	Ветер
 WKD	Worked	Работал
 WKG	Working	Работаю
 WLL	Will	Буду, будет, будете
 WL	Will	Буду, будет, будете
+WL	Well	Хорошо
+WT	Weigth. What. Wait	Вес. Что (вопр.). Подождите
 WPM	Word per minute	Слов в минуту
 WRKD	Worked	Работал
 WRKED	Worked	Работал
 WRK	Work	Работа, работать
 WTTS	Watts	Ватты
 W	Word	Слово
+W	Watt	Ватт
 WW	World-wide	Весь мир, всемирный
 WX	Weather	Погода
+WY	Why	Почему, зачем
 XCRV	Transceiver	Трансивер
 X	Crystal	Прекрасный, "кристалльный" тон
+XMSN	Transmission	Передача
 XMTR	Transmitter	Приёмник
 XTAL	Crystal	Кварцевый кристалл
 XUSE	Excuse	Извинения
@@ -443,9 +590,15 @@ XXX	Urgency signal	Сигнал бедствия
 XYL	Ex young lady, wife	Жена
 YDAY	Yesterday	Вчера
 YES	Yes	Да
+YF	Young female	Жена
 YL	Young lady	Девушка
+YR	Year	Год
+YR	Your	Ваш, ваше
+YRS	Years	Годы
+YRS	Yours	Ваши
 ZAN	Принимаете ли Вы меня?	Я абсолютно ничего не принимаю
 ZAP	Должен ли я подтвердить приём?	Пожалуйста, подтвердите приём
+ZB	Zero beat	Нулевые биения
 ZCK	Какова моя манипуляция?	Проверьте Вашу манипуляцию
 ZCL	Должен ли я передавать мой позывной сигнал разборчивее?	Передавайте Ваш позывной сигнал разборчивее
 ZDF	Меняется ли моя частота?	Ваша частота меняется
