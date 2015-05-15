@@ -1,20 +1,27 @@
-all: data dict dist
+TXT2DATA=./txt2data
+TABFILE=/usr/lib/stardict-tools/tabfile
+TXT2STARTAB=./txt2startab
+DICTNAME=ham-code
+DICTSUBJ="Словарь радиокодов"
+DICTURL=https://github.com/stanislavvv/dict/
 
-data:
-	./txt2data < ham-code.txt > ham-code.data
+all: dict
 
 dict:
+	$(TXT2DATA) < $(DICTNAME).txt > $(DICTNAME).data
 	dictfmt -p \
 	        --allchars \
 	        --utf8 \
 	        --columns 0 \
-	        -s "Словарь радиокодов" \
+	        -s $(DICTSUBJ) \
+	        -u $(DICTURL) \
 	        --without-time \
-	        "ham-code" < "ham-code.data"
+	        $(DICTNAME) < $(DICTNAME).data
+	dictzip -k $(DICTNAME).dict
 
-
-dist:
-	dictzip -k ham-code.dict
+stardict:
+	cat $(DICTNAME).txt | grep . | ./txt2startab >$(DICTNAME).tab
+	$(TABFILE) $(DICTNAME).tab
 
 clean:
-	rm -f *.data *.dz *.dict *.index
+	rm -f *.data *.dz *.dict *.index *.tab *.idx *.ifo

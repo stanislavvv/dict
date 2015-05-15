@@ -1,0 +1,26 @@
+#!/usr/bin/perl
+
+use strict;
+
+my %tab;
+
+while (my $line = <STDIN>) {
+    chomp $line;
+    my @line = split ("\t",$line);
+    my $tabtext="";
+    for (my $i = 1; $i <= $#line; $i++) {
+        $tabtext .= $line[$i] . '\n';
+    }
+    $tabtext =~ s|\\n$||;
+    if (defined $tab{$line[0]}) {
+        my $tmp = $tab{$line[0]};
+        $tmp .= '\n' . $tabtext;
+        $tab{$line[0]} = $tmp;
+    } else {
+        $tab{$line[0]} = $tabtext
+    }
+}
+
+foreach my $tab (sort keys %tab) {
+    print "$tab\t$tab{$tab}\n";
+}
