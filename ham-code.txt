@@ -1,5 +1,7 @@
 
 
+
+
 30	The end	Конец связи
 33	Love sealed with frendship (used by YL-only)	Выражение любви и дружеских чувств (используется только женщинами)
 73	Best regards	Наилучшие пожелания
