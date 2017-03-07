@@ -5,7 +5,7 @@ Maintainer: Stanislav Vlasov <stanislav.v.v@gmail.com>
 Build-Depends: debhelper
 Build-Depends-Indep: dictzip, dictfmt, stardict-tools
 Standards-Version: 3.9.6
-Homepage: https://github.com/stanislavvv/dict
+Homepage: https://github.com/stanislavvv/ham-code
 
 Package: dict-hamcode-eng-rus
 Architecture: all
