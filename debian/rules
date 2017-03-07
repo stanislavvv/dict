@@ -1,0 +1,73 @@
+#!/usr/bin/make -f
+
+# Uncomment this to turn on verbose mode.
+# export DH_VERBOSE=1
+
+# # Support parallel build
+#ifneq (,$(filter parallel=%,$(DEB_BUILD_OPTIONS)))
+#	NUMJOBS = $(patsubst parallel=%,%,$(filter parallel=%,$(DEB_BUILD_OPTIONS)))
+#	MAKEFLAGS += -j$(NUMJOBS)
+#endif
+
+build: build-prep
+
+build-prep:
+	dh_testdir
+
+timestamp:
+	touch $@
+
+build-stamp:
+	touch build-stamp
+
+# for lintian
+build-indep: build
+build-arch: build
+
+clean:
+	dh_testdir
+	rm -f build-stamp timestamp configure-stamp
+	dh_clean
+
+
+install: build
+	dh_testdir
+	dh_testroot
+	dh_clean -k
+
+	make dict
+	make stardict
+	dh_installdirs -A
+
+	# copy files to final destination
+	install -m 644 ham-code.dict.dz debian/dict-hamcode-eng-rus/usr/share/dictd/ham-code.dict.dz
+	install -m 644 ham-code.index debian/dict-hamcode-eng-rus/usr/share/dictd/ham-code.index
+	install -m 644 ham-code.dict.dz debian/stardict-hamcode-eng-rus/usr/share/stardict/dic/ham-code.dict.dz
+	install -m 644 ham-code.idx debian/stardict-hamcode-eng-rus/usr/share/stardict/dic/ham-code.idx
+	install -m 644 ham-code.ifo debian/stardict-hamcode-eng-rus/usr/share/stardict/dic/ham-code.ifo
+
+
+binary-arch: build install
+# We have nothing to do by default.
+
+binary-indep: build install
+	dh_testdir
+	dh_testroot
+	dh_installchangelogs
+	dh_installdocs -A debian/README.Debian
+	dh_link
+	dh_strip
+	dh_compress
+	dh_fixperms
+	dh_installdeb
+	dh_shlibdeps
+	dh_gencontrol
+	dh_md5sums
+	dh_builddeb
+
+get-orig-source:
+	# requires python3
+	debian/fetchdictdata.py -f
+
+binary: binary-indep binary-arch
+.PHONY: build clean binary-indep binary-arch binary install

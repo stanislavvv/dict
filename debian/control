@@ -1,0 +1,27 @@
+Source: ham-code
+Section: text
+Priority: optional
+Maintainer: Stanislav Vlasov <stanislav.v.v@gmail.com>
+Build-Depends: debhelper
+Build-Depends-Indep: dictzip, dictfmt, stardict-tools
+Standards-Version: 3.9.6
+Homepage: https://github.com/stanislavvv/dict
+
+Package: dict-hamcode-eng-rus
+Architecture: all
+Depends: ${misc:Depends}
+Suggests: dictd | dicod, dict | gnome-dictionary
+        | goldendict
+Provides: dictd-dictionary
+Description: English-Russian Ham Radio codes dictionary
+ This is the English-Russian Ham Radio codes dictionary
+ This packages for dictd
+
+Package: stardict-hamcode-eng-rus
+Architecture: all
+Depends: ${misc:Depends}
+Recommends: stardict | sdcv | stardict-gtk | goldendict | qstardict | babiloo | dictionarystar
+Description: English-Russian Ham Radio codes dictionary
+ This is the English-Russian Ham Radio codes dictionary
+ This packages for stardict
+

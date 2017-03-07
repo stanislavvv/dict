@@ -1,0 +1,8 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: ham-codes
+Upstream-Contact: stanislav.v.v@gmail.com
+Source: https://github.com/stanislavvv/dict
+
+Files: debian/*
+Copyright: 2017 Stanislav Vlasov <stanislav.v.v@gmail.com>
+License: Unlicense

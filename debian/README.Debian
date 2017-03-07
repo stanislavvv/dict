@@ -1,0 +1,15 @@
+ham-code eng-rus dictionary for Debian
+--------------------------------------
+
+This dictionary is UTF-8 encoded. If you use dictd < 1.10.1, make sure to
+start it with appropriate --locale option (for more information see
+'man dictd').
+
+The 'dictl' program also may be useful for you. It is a wrapper script for dict
+that permits using utf-8 encoded dictionaries on a terminal that is not
+utf-8 aware.
+
+Some dictionaries upstream have auto-generated phonemes in their dictionary,
+generated at build time. Currently, this is not possible in Debian, because the
+program used for this seems to have licensing issues and it is also not
+packaged. So this feature is disabled.
