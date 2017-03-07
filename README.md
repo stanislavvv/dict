@@ -14,10 +14,10 @@
 
 Для создания deb-пакетов требуется пакет devscripts и все пакеты, упомянутые выше:
 
-    `apt-get install devscripts stardict-tools dictfmt`
+    apt-get install devscripts stardict-tools dictfmt
 
 Затем создавайте пакет:
 
-    `debuild`
+    debuild
 
 На вопросы отвечать `y`
