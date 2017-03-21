@@ -35,13 +35,12 @@ install: build
 	dh_testroot
 	dh_clean -k
 
-	make dict
-	make stardict
 	dh_installdirs -A
-
-	# copy files to final destination
+	make dict
 	install -m 644 ham-code.dict.dz debian/dict-hamcode-eng-rus/usr/share/dictd/ham-code.dict.dz
 	install -m 644 ham-code.index debian/dict-hamcode-eng-rus/usr/share/dictd/ham-code.index
+
+	make stardict
 	install -m 644 ham-code.dict.dz debian/stardict-hamcode-eng-rus/usr/share/stardict/dic/ham-code.dict.dz
 	install -m 644 ham-code.idx debian/stardict-hamcode-eng-rus/usr/share/stardict/dic/ham-code.idx
 	install -m 644 ham-code.ifo debian/stardict-hamcode-eng-rus/usr/share/stardict/dic/ham-code.ifo
