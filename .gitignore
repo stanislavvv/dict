@@ -5,3 +5,9 @@
 debian/*.debhelper.log
 debian/*.substvars
 debian/files
+debian/.debhelper
+debian/dict-hamcode-eng-rus/
+debian/stardict-hamcode-eng-rus/
+*.idx
+*.ifo
+*.tab

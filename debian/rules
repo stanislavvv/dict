@@ -64,9 +64,5 @@ binary-indep: build install
 	dh_md5sums
 	dh_builddeb
 
-get-orig-source:
-	# requires python3
-	debian/fetchdictdata.py -f
-
 binary: binary-indep binary-arch
 .PHONY: build clean binary-indep binary-arch binary install
